@@ -1,2 +1,2 @@
 # cloudtest
-for SEVT training DEMO
+This is a test project
